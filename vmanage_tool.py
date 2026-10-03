@@ -50,7 +50,7 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 """ GLOBAL VARIABLES """
 DIR_PATH = os.path.dirname(os.path.abspath(__file__))
-CONFIG_ARCH = "config_backup.tar.gz"
+CONFIG_ARCH = "config_backup_all.tar.gz"
 ITEM_DIC =  {
                 "device_template" : ("template/device", "templateId"),
                 "feature_template" : ("template/feature", "templateId"),
