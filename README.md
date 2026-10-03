@@ -42,6 +42,7 @@ cd vmanage-backup-restore
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+pip install --upgrade requests urllib3
 ```
 
 3. Get your Cisco SD-WAN
