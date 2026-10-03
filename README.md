@@ -128,6 +128,12 @@ Specific archive export example how to use the vManage Tool:
 python vmanage_tool.py [vManage IP] [vManage Netadmin Role User] [vManage Password] export mysdwanarchive.tar.gz
 ```
 
+Specific archive export example how to use the vManage Tool:
+
+```
+python parser.py
+```
+
 Specific archive import multi-tenant example how to use the vManage Tool:
 
 ```
