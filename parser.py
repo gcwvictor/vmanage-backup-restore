@@ -4,7 +4,7 @@ import tarfile
 
 INPUT_FOLDER = "./"
 OUTPUT_FOLDER = "./non-default backup"
-TARGET_TAR_NAME = "config_archive.tar.gz"
+TARGET_TAR_NAME = "config_backup_all.tar.gz"
 OUTPUT_TAR_NAME = "config_backup_non-default.tar.gz"
 
 # Daftar nama file JSON spesifik vManage
