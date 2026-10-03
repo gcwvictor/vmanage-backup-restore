@@ -142,7 +142,7 @@ python vmanage_tool.py [vManage IP] [vManage Netadmin Role User] [vManage Passwo
 
 ---
 
-Basic example how to use the Cisco SD-WAN EXIM (Export and Import) with DevNet Sandbox:
+Basic example how to use the vManage Tool with DevNet Sandbox:
 
 ```
 python vmanage_tool.py sandboxsdwan.cisco.com:8443 devnetuser Cisco123! export mysdwanarchive.tar.gz
