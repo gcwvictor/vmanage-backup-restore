@@ -232,10 +232,3 @@ Successfully exported the policy lists from sandboxsdwan.cisco.com:8443
 
 Successfully exported the configuration from sandboxsdwan.cisco.com:8443
 ```
-
-
-
-## License
-
-This project is licensed to you under the terms of the [Cisco Sample
-Code License](./LICENSE).
